@@ -9,7 +9,7 @@
 <ul>
   <li><b>HTML</b</li>
   <li><b>CSS</b> - Bootstrap - responsivo</li>
-  <li><b>JavaScript</b</li>
+  <li><b>JavaScript</b></li>
 </ul>
 
 <h2>⚙️ Funcionalidades</h2>
