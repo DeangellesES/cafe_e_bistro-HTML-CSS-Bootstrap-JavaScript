@@ -30,9 +30,11 @@
   <li>Paradigma de programação Estruturado</li>
   <li>evento de click</li>
   <li>Funcionalidade de escolher tema claro ou escuro com Bootstrap ao clicar</li>
-  
-  <li>Flex-box CSS</li>
-  <li>background-image: radial-gradient(#fff, #c7c7c7);</li>
-  <li>flex-basis: 50%;</li>
-  <li>responsivo para todas as telas</li>
+  <li>Ao clicar em ver detalhes é aberto um conteúdo lateral com mais informações, efeito feito com Boostrap</li>
+  <li>O conteúdo lateral tem o efeito de mostrar e esconder o texto ao clicar e mudar posição da seta, feito com Boostrap</li>
+  <li>Ao clicar em um produto é aberto um modal com informações completas</li>
+  <li>manipulação de background</li>
+  <li>background-attachment: fixed; utilizado</li>
+  <li>Responsivo para todas as telas</li>
+  <li>Menu hamburguer para mostrar e esconder links de navegação feito com Bootstrap, com efeito de vir e ir de lado e devagar</li>
 </ul>
